@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for image classification
+Home-page: https://github.com/krushi1992/Image_classification_deployment
+Author: krushi1992
+Author-email: krushi1992@gmail.com
+Project-URL: Bug Tracker, https://github.com/krushi1992/Image_classification_deployment/issues
+
+# Image_classification_deployment
